@@ -22,3 +22,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshkr&show_icons=true&locale=en&layout=compact" alt="iamharshkr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshkr&show_icons=true&locale=en" alt="iamharshkr" /></p>
+
+## Get in Touch
+
+Whether it's collaborating on an exciting project, discussing the latest tech trends, or sharing cybersecurity insights, I'm always up for a chat. Feel free to reach out through any of the above platforms or drop me an email at harshkumar9430@gmail.com.
+
+Let's connect, learn, and create together! 🚀
