@@ -27,10 +27,9 @@ Feel free to explore my repositories to see some of my projects, coding experime
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iamharshkr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamharshkr" /></a></p>
-<br/>
-
+>
+<h3 align="left">Stats:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamharshkr&show_icons=true&locale=en&layout=compact" alt="iamharshkr" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshkr&show_icons=true&locale=en" alt="iamharshkr" /></p>
 
 ## Get in Touch
